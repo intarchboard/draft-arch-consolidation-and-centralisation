@@ -30,9 +30,31 @@ author:
     country: United States
     email: ietf@hardakers.net
 
-
+informative:
+  RFC1192:
+  RFC1958:
+  RFC3935:
+  I-D.arkko-iab-internet-consolidation: 
+  I-D.arkko-arch-infrastructure-centralisation:
+  I-D.iab-dedr-report:
+  
 --- abstract
 
+Many of us have held a vision of the Internet as the ultimate distributed
+platform that allows communication, the provision of services, and competition
+from any corner of the world. But as the Internet has matured, it seems to also
+feed the creation of large, centralised entities in many areas. This phenomenon
+could be looked at from many different angles, but this memo considers the topic
+from the perspective of how available technology and Internet architecture
+either drives or is affected by different market directions. 
 
 --- middle
+
+# Introduction {#introduction}
+
+TBD
+
+# Conclusions {#conclusions}
+
+TBD
 
