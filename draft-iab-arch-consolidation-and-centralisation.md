@@ -70,11 +70,11 @@ TBD
 
 # Analysis {#analysis}
 
-## The Effects on the Internet and Users{#effects}
+## The Effects on the Internet and Users {#effects}
 
 TBD
 
-## The Causes Behind These Trends{#causes}
+## The Causes Behind These Trends {#causes}
 
 TBD
 
