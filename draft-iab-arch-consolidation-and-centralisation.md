@@ -70,21 +70,19 @@ TBD
 
 # Analysis {#analysis}
 
-## The Effects {#effects}
+## The Effects on the Internet and Users{#effects}
 
 TBD
 
-## Causes {#causes}
+## The Causes Behind These Trends{#causes}
 
 TBD
 
-## Interaction with Architecture {#architecture}
+## Interaction of the Trends with Architecture {#architecture}
 
 TBD
 
-# Directions for Future {#directions}
-
-# Conclusions {#conclusions}
+# Directions for Future Technical Work {#directions}
 
 TBD
  
