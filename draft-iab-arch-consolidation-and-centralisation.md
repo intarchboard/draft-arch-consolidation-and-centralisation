@@ -54,7 +54,37 @@ either drives or is affected by different market directions.
 
 TBD
 
-# Conclusions {#conclusions}
+# Concepts and Trends
+
+## Consolidation {#consolidation}
 
 TBD
 
+## Centralisation {#centralisation}
+
+TBD
+
+# Understanding Trends and Other Work {#otherwork}
+
+TBD
+
+# Analysis {#analysis}
+
+## The Effects {#effects}
+
+TBD
+
+## Causes {#causes}
+
+TBD
+
+## Interaction with Architecture {#architecture}
+
+TBD
+
+# Directions for Future {#directions}
+
+# Conclusions {#conclusions}
+
+TBD
+ 
